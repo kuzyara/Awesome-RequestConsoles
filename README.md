@@ -89,18 +89,6 @@ https://romanpro.ru/files/1c/console.zip
 
 ![image](https://user-images.githubusercontent.com/2604430/225547841-e7c0d48f-a7a9-42fa-b62c-12193b869555.png)
 
-
-## Консоль запросов 1С 8.2 УФ и ОФ | https://infostart.ru/public/177142/
-
-Взята с http://infostart.ru/public/126781/. Доделал Санек ICQ 129193052. Несмотря на то что в публикации заявлено УФ, консоль управляемых форм лежит в архиве в виде отдельной обработки, которая была взята из другой публикации. Поэтому заводить её в категорию "УФ и ОФ" считаю неправильным. Пользуясь случаем, передаём Саньку привет)  Имеет 716+ скачиваний
-- Консоль запросов оф и уф 8.3.5 (обычные формы в виде отдельной обработки, [скриншот](
-- ))
-- Только толстый клиент
-- Вставка запроса из буфера обмена
-- Консоль запросов для 1С 8.2 УФ
-
-![image](https://user-images.githubusercontent.com/2604430/225598754-04a3e764-fa5d-447f-8edb-1eeadd02c16c.png)
-
 # Обычные и управляемые формы
 
 ## Универсальная консоль запросов | [programmist1s.ru](https://programmist1s.ru/konsol-zaprosov-1s-opisanie-i-skachat/)
@@ -141,6 +129,15 @@ https://github.com/lavelinevgeny/consquery/raw/master/consquery83.epf
 
 ![image](https://user-images.githubusercontent.com/2604430/225593025-4a588d02-0ca3-4129-a5e4-4c5a6540551b.png)
 
+
+## КонсольЗапросов AZ v1_7_5_санек | https://infostart.ru/public/177142/
+
+Взята с http://infostart.ru/public/126781/. Доделал Санек ICQ 129193052. Несмотря на то что в публикации заявлено УФ, консоль управляемых форм лежит в архиве в виде отдельной обработки, которая была взята из другой публикации, я всё же завёл её в категорию "УФ и ОФ". Пользуясь случаем, передаём Саньку привет)  Имеет 716+ скачиваний
+- Консоль запросов оф и уф 8.3.5 (обычные формы в виде отдельной обработки, [скриншот](https://user-images.githubusercontent.com/2604430/225598754-04a3e764-fa5d-447f-8edb-1eeadd02c16c.png))
+- Только толстый клиент
+- Вставка запроса из буфера обмена
+
+![image](https://user-images.githubusercontent.com/2604430/225609424-aeacc983-3214-44d5-aab2-8bcea41ef0d5.png)
 # Управляемые формы
 ## Консолька | [helpme1s.ru](https://helpme1s.ru/obrabotka-konsol-zaprosov-sertakov-v-s-1s-8-2-8-3) | https://infostart.ru/public/591653/ (©Виталий Сертаков)
 https://helpme1s.ru/files/sertakov/Query_Console_By_Sertakov.epf
