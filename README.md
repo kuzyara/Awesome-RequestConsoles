@@ -276,9 +276,7 @@ https://fs.kursypo1c.ru/free/КонсольЗапросов_8.3.5.epf
 ![image](https://user-images.githubusercontent.com/2604430/225602991-5777345c-0d2c-4e4e-b348-d72ef89b89b6.png)
 
 ------------
-Статья появилась на свет благодаря каналу https://t.me/memoshnaya1C:
-![image](https://user-images.githubusercontent.com/2604430/225614845-67af6a1e-6333-475a-8d7b-d068c6338d7c.png)
-
+Статья появилась на свет благодаря каналу https://t.me/memoshnaya1C/294
 
 Всем спасибо.
 
