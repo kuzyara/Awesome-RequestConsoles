@@ -1,6 +1,8 @@
 # Консоли запросов для 1С
 Список всех популярных обработок
 
+Консоли с конструктором работающим только в толстом клиенте отмечены значком: :frog:
+
 - Типовые
   - [Консоль запросов ИТС 8.1 | its.1c.ru](#консоль-запросов-итс-81--its1cru)
   - [Консоль запросов ИТС 8.2 | its.1c.ru](#консоль-запросов-итс-82--its1cru)
@@ -13,18 +15,18 @@
   - [Универсальная консоль запросов | programmist1s.ru](#универсальная-консоль-запросов--programmist1sru)
   - [Консоль запросов 1С | consquery.ru | https://infostart.ru/public/14183/](#консоль-запросов-1с--consqueryru--httpsinfostartrupublic14183)
   - [Консоль запросов с графом (Анализатор сложных запросов) | https://infostart.ru/public/617990/](#консоль-запросов-с-графом-анализатор-сложных-запросов--httpsinfostartrupublic617990)
-  - [КонсольЗапросов AZ v1\_7\_5\_санек | https://infostart.ru/public/177142/](#консользапросов-az-v1_7_5_санек--httpsinfostartrupublic177142)
+  - [КонсольЗапросов AZ v1\_7\_5\_санек | https://infostart.ru/public/177142/ :frog:](#консользапросов-az-v1_7_5_санек--httpsinfostartrupublic177142-frog)
 - Управляемые формы
   - [Консолька | helpme1s.ru | https://infostart.ru/public/591653/ (©Виталий Сертаков)](#консолька--helpme1sru--httpsinfostartrupublic591653-виталий-сертаков)
-  - [Консоль запросов для управляемого приложения 1С 8.2 - 8.3 | 1c-uroki.ru | https://infostart.ru/public/64522/ (©Николай Больсунов)](#консоль-запросов-для-управляемого-приложения-1с-82---83--1c-urokiru--httpsinfostartrupublic64522-николай-больсунов)
+  - [Консоль запросов для управляемого приложения 1С 8.2 - 8.3 | 1c-uroki.ru | https://infostart.ru/public/64522/ (©Николай Больсунов) :frog:](#консоль-запросов-для-управляемого-приложения-1с-82---83--1c-urokiru--httpsinfostartrupublic64522-николай-больсунов-frog)
   - [Запросник 2.0 (©mrstomak) | itdemka.ru | https://infostart.ru/public/295356/](#запросник-20-mrstomak--itdemkaru--httpsinfostartrupublic295356)
   - [СДР: Консоль запросов Х (©ROL32) | https://infostart.ru/public/938606/](#сдр-консоль-запросов-х-rol32--httpsinfostartrupublic938606)
   - [Консоль запросов 9000 (©kuza2000) | github | https://infostart.ru/public/1190868/](#консоль-запросов-9000-kuza2000--github--httpsinfostartrupublic1190868)
   - [МегаКонсоль запросов 8.3 @AlexxSys | https://infostart.ru/public/331421/](#мегаконсоль-запросов-83-alexxsys--httpsinfostartrupublic331421)
   - [Консоль запросов для платформы 8.3.5 (©BigB) | kursypo1c.ru | https://infostart.ru/public/277749/](#консоль-запросов-для-платформы-835-bigb--kursypo1cru--httpsinfostartrupublic277749)
-  - [Консоль запросов для платформы 1С 8.2-8.3 (©ТопчийДЮ) | https://infostart.ru/public/272459/](#консоль-запросов-для-платформы-1с-82-83-топчийдю--httpsinfostartrupublic272459)
+  - [Консоль запросов для платформы 1С 8.2-8.3 (©ТопчийДЮ) | https://infostart.ru/public/272459/ :frog:](#консоль-запросов-для-платформы-1с-82-83-топчийдю--httpsinfostartrupublic272459-frog)
   - [Управляемая консоль отчетов 3.8.9 (©Evg-Lylyk) | https://infostart.ru/public/835718/](#управляемая-консоль-отчетов-389-evg-lylyk--httpsinfostartrupublic835718)
-  - [Консоль запросов, версия 1.8.1 | https://infostart.ru/public/126781/](#консоль-запросов-версия-181--httpsinfostartrupublic126781)
+  - [Консоль запросов, версия 1.8.1 | https://infostart.ru/public/126781/ :frog:](#консоль-запросов-версия-181--httpsinfostartrupublic126781-frog)
 
 
 # Типовые
@@ -112,7 +114,7 @@ http://devtool1c.ucoz.ru/load/
 # Обычные и управляемые формы
 
 ## Универсальная консоль запросов | [programmist1s.ru](https://programmist1s.ru/konsol-zaprosov-1s-opisanie-i-skachat/)
-https://programmist1s.ru/wp-content/uploads/2013/05/KonsolZaprosovUniversalnaya_programmist1S.ru_-1.zip
+https://programmist1s.ru/wp-content/uploads/2013/05/KonsolZaprosovUniversalnaya_programmist1S.ru_-1.zip :frog:
 
 Обработка с критичным багом в УФ, которая до сих пор держится в топе выдачи поисковиков. Похоже поддержка приостановлена в 2016 году.
 - [обычные](https://user-images.githubusercontent.com/2604430/224759408-e1df0ea8-4163-458d-ad7f-2ac0cf5c1218.png) и управляемые формы
@@ -150,7 +152,7 @@ https://github.com/lavelinevgeny/consquery/raw/master/consquery83.epf
 ![image](https://user-images.githubusercontent.com/2604430/225593025-4a588d02-0ca3-4129-a5e4-4c5a6540551b.png)
 
 
-## КонсольЗапросов AZ v1_7_5_санек | https://infostart.ru/public/177142/
+## КонсольЗапросов AZ v1_7_5_санек | https://infostart.ru/public/177142/ :frog:
 
 Взята с http://infostart.ru/public/126781/. Доделал Санек ICQ 129193052. Несмотря на то что в публикации заявлено УФ, консоль управляемых форм лежит в архиве в виде отдельной обработки, которая была взята из другой публикации, я всё же завёл её в категорию "УФ и ОФ". Пользуясь случаем, передаём Саньку привет)  Имеет 716+ скачиваний
 - Консоль запросов оф и уф 8.3.5 (обычные формы в виде отдельной обработки, [скриншот](https://user-images.githubusercontent.com/2604430/225598754-04a3e764-fa5d-447f-8edb-1eeadd02c16c.png))
@@ -169,7 +171,7 @@ https://helpme1s.ru/files/sertakov/Query_Console_By_Sertakov.epf
 
 ![image](https://user-images.githubusercontent.com/2604430/224772630-af4ee87d-106d-4495-941d-c44b8ec361cc.png)
 
-## Консоль запросов для управляемого приложения 1С 8.2 - 8.3 | [1c-uroki.ru](http://1c-uroki.ru/articles/Konsol_zaprosov_1C_8.3_8.2) | https://infostart.ru/public/64522/ (©Николай Больсунов)
+## Консоль запросов для управляемого приложения 1С 8.2 - 8.3 | [1c-uroki.ru](http://1c-uroki.ru/articles/Konsol_zaprosov_1C_8.3_8.2) | https://infostart.ru/public/64522/ (©Николай Больсунов) :frog:
 
 http://1c-uroki.ru/sites/default/files/articles/konsol_zaprosov_dlya_1s_8.3_i_8.2_0.zip
 
@@ -247,7 +249,7 @@ https://fs.kursypo1c.ru/free/КонсольЗапросов_8.3.5.epf
 
 ![image](https://user-images.githubusercontent.com/2604430/225536708-ac11090b-1e42-41c4-a3fe-bef7bd20e8a4.png)
 
-## Консоль запросов для платформы 1С 8.2-8.3 (©ТопчийДЮ) | https://infostart.ru/public/272459/
+## Консоль запросов для платформы 1С 8.2-8.3 (©ТопчийДЮ) | https://infostart.ru/public/272459/ :frog:
 
 Данная консоль запросов является доработанной версией стандартной консоли с сайта ИТС т.к. нужного и удобного функционала не было найдено. Для модернизации были взяты наработки из консоли http://infostart.ru/public/126781/ 403+ скачиваний
 - Управляемое приложение, Такси
@@ -269,7 +271,7 @@ https://fs.kursypo1c.ru/free/КонсольЗапросов_8.3.5.epf
 
 ![image](https://user-images.githubusercontent.com/2604430/225584380-a4eb7d5d-cf88-4665-8ea0-9f3c51d44857.png)
 
-## Консоль запросов, версия 1.8.1 | https://infostart.ru/public/126781/
+## Консоль запросов, версия 1.8.1 | https://infostart.ru/public/126781/ :frog:
 
 Консоль запросов 1.8.1 разработана для использования в тонком и толстом клиенте управляемого приложения. 1229+ скачиваний
 - Работает начиная с версии платформы 8.3.3
