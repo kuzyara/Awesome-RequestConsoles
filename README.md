@@ -8,20 +8,23 @@
 - Обычные формы
   - [Запросник 8.2 | makrus.ru | https://infostart.ru/public/72969/](#запросник-82--makrusru--httpsinfostartrupublic72969)
   - [Консоль запросов для обычных форм Павла Чистова | 1c.chistov.pro](#консоль-запросов-для-обычных-форм-павла-чистова--1cchistovpro)
+  - [Консоль запросов в подсистеме ИР | devtool1c.ucoz.ru | https://infostart.ru/public/15126/](#консоль-запросов-в-подсистеме-ир--devtool1cucozru--httpsinfostartrupublic15126)
 - Обычные и управляемые формы
   - [Универсальная консоль запросов | programmist1s.ru](#универсальная-консоль-запросов--programmist1sru)
   - [Консоль запросов 1С | consquery.ru | https://infostart.ru/public/14183/](#консоль-запросов-1с--consqueryru--httpsinfostartrupublic14183)
   - [Консоль запросов с графом (Анализатор сложных запросов) | https://infostart.ru/public/617990/](#консоль-запросов-с-графом-анализатор-сложных-запросов--httpsinfostartrupublic617990)
+  - [КонсольЗапросов AZ v1\_7\_5\_санек | https://infostart.ru/public/177142/](#консользапросов-az-v1_7_5_санек--httpsinfostartrupublic177142)
 - Управляемые формы
-  - [Консолька | helpme1s.ru | https://infostart.ru/public/591653/](#консолька--helpme1sru--httpsinfostartrupublic591653)
-  - [Консоль запросов для управляемого приложения 1С 8.2 - 8.3 | 1c-uroki.ru | https://infostart.ru/public/64522/](#консоль-запросов-для-управляемого-приложения-1с-82---83--1c-urokiru--httpsinfostartrupublic64522)
-  - [Запросник 2.0 | itdemka.ru | https://infostart.ru/public/295356/](#запросник-20--itdemkaru--httpsinfostartrupublic295356)
+  - [Консолька | helpme1s.ru | https://infostart.ru/public/591653/ (©Виталий Сертаков)](#консолька--helpme1sru--httpsinfostartrupublic591653-виталий-сертаков)
+  - [Консоль запросов для управляемого приложения 1С 8.2 - 8.3 | 1c-uroki.ru | https://infostart.ru/public/64522/ (©Николай Больсунов)](#консоль-запросов-для-управляемого-приложения-1с-82---83--1c-urokiru--httpsinfostartrupublic64522-николай-больсунов)
+  - [Запросник 2.0 (©mrstomak) | itdemka.ru | https://infostart.ru/public/295356/](#запросник-20-mrstomak--itdemkaru--httpsinfostartrupublic295356)
   - [СДР: Консоль запросов Х (©ROL32) | https://infostart.ru/public/938606/](#сдр-консоль-запросов-х-rol32--httpsinfostartrupublic938606)
   - [Консоль запросов 9000 (©kuza2000) | github | https://infostart.ru/public/1190868/](#консоль-запросов-9000-kuza2000--github--httpsinfostartrupublic1190868)
   - [МегаКонсоль запросов 8.3 @AlexxSys | https://infostart.ru/public/331421/](#мегаконсоль-запросов-83-alexxsys--httpsinfostartrupublic331421)
   - [Консоль запросов для платформы 8.3.5 (©BigB) | kursypo1c.ru | https://infostart.ru/public/277749/](#консоль-запросов-для-платформы-835-bigb--kursypo1cru--httpsinfostartrupublic277749)
   - [Консоль запросов для платформы 1С 8.2-8.3 (©ТопчийДЮ) | https://infostart.ru/public/272459/](#консоль-запросов-для-платформы-1с-82-83-топчийдю--httpsinfostartrupublic272459)
   - [Управляемая консоль отчетов 3.8.9 (©Evg-Lylyk) | https://infostart.ru/public/835718/](#управляемая-консоль-отчетов-389-evg-lylyk--httpsinfostartrupublic835718)
+  - [Консоль запросов, версия 1.8.1 | https://infostart.ru/public/126781/](#консоль-запросов-версия-181--httpsinfostartrupublic126781)
 
 
 # Типовые
