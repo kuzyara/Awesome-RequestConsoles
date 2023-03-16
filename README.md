@@ -89,6 +89,18 @@ https://romanpro.ru/files/1c/console.zip
 
 ![image](https://user-images.githubusercontent.com/2604430/225547841-e7c0d48f-a7a9-42fa-b62c-12193b869555.png)
 
+
+## Консоль запросов 1С 8.2 УФ и ОФ | https://infostart.ru/public/177142/
+
+Взята с http://infostart.ru/public/126781/. Доделал Санек ICQ 129193052. Несмотря на то что в публикации заявлено УФ, консоль управляемых форм лежит в архиве в виде отдельной обработки, которая была взята из другой публикации. Поэтому заводить её в категорию "УФ и ОФ" считаю неправильным. Пользуясь случаем, передаём Саньку привет)  Имеет 716+ скачиваний
+- Консоль запросов оф и уф 8.3.5 (обычные формы в виде отдельной обработки, [скриншот](
+- ))
+- Только толстый клиент
+- Вставка запроса из буфера обмена
+- Консоль запросов для 1С 8.2 УФ
+
+![image](https://user-images.githubusercontent.com/2604430/225598754-04a3e764-fa5d-447f-8edb-1eeadd02c16c.png)
+
 # Обычные и управляемые формы
 
 ## Универсальная консоль запросов | [programmist1s.ru](https://programmist1s.ru/konsol-zaprosov-1s-opisanie-i-skachat/)
@@ -130,7 +142,7 @@ https://github.com/lavelinevgeny/consquery/raw/master/consquery83.epf
 ![image](https://user-images.githubusercontent.com/2604430/225593025-4a588d02-0ca3-4129-a5e4-4c5a6540551b.png)
 
 # Управляемые формы
-## Консолька | [helpme1s.ru](https://helpme1s.ru/obrabotka-konsol-zaprosov-sertakov-v-s-1s-8-2-8-3) | https://infostart.ru/public/591653/
+## Консолька | [helpme1s.ru](https://helpme1s.ru/obrabotka-konsol-zaprosov-sertakov-v-s-1s-8-2-8-3) | https://infostart.ru/public/591653/ (©Виталий Сертаков)
 https://helpme1s.ru/files/sertakov/Query_Console_By_Sertakov.epf
 
 Минималистичная консоль с необычным дизайном
@@ -140,7 +152,7 @@ https://helpme1s.ru/files/sertakov/Query_Console_By_Sertakov.epf
 
 ![image](https://user-images.githubusercontent.com/2604430/224772630-af4ee87d-106d-4495-941d-c44b8ec361cc.png)
 
-## Консоль запросов для управляемого приложения 1С 8.2 - 8.3 | [1c-uroki.ru](http://1c-uroki.ru/articles/Konsol_zaprosov_1C_8.3_8.2) | https://infostart.ru/public/64522/
+## Консоль запросов для управляемого приложения 1С 8.2 - 8.3 | [1c-uroki.ru](http://1c-uroki.ru/articles/Konsol_zaprosov_1C_8.3_8.2) | https://infostart.ru/public/64522/ (©Николай Больсунов)
 
 http://1c-uroki.ru/sites/default/files/articles/konsol_zaprosov_dlya_1s_8.3_i_8.2_0.zip
 
@@ -154,7 +166,7 @@ http://1c-uroki.ru/sites/default/files/articles/konsol_zaprosov_dlya_1s_8.3_i_8.
 
 ![image](https://user-images.githubusercontent.com/2604430/224735123-899244bc-90fb-4848-80cd-cd91cf81873c.png)
 
-## Запросник 2.0 | [itdemka.ru](https://itdemka.ru/pubs/1122.html) | https://infostart.ru/public/295356/
+## Запросник 2.0 (©mrstomak) | [itdemka.ru](https://itdemka.ru/pubs/1122.html) | https://infostart.ru/public/295356/
 https://itdemka.ru/11220.zip
 
 Консоль на управляемых формах от автора, вдохновившегося запросником на обычных формах. 1700+ скачаваний.
@@ -240,7 +252,14 @@ https://fs.kursypo1c.ru/free/КонсольЗапросов_8.3.5.epf
 
 ![image](https://user-images.githubusercontent.com/2604430/225584380-a4eb7d5d-cf88-4665-8ea0-9f3c51d44857.png)
 
+## Консоль запросов, версия 1.8.1 | https://infostart.ru/public/126781/
 
+Консоль запросов 1.8.1 разработана для использования в тонком и толстом клиенте управляемого приложения. 1229+ скачиваний
+- Работает начиная с версии платформы 8.3.3
+- Интеграция с режимом отладки
+- конструктор запросов доступен только в режиме толстого клиента
+
+![image](https://user-images.githubusercontent.com/2604430/225602991-5777345c-0d2c-4e4e-b348-d72ef89b89b6.png)
 
 todo
 
@@ -258,3 +277,5 @@ todo
 * https://infostart.ru/public/938606/ (done) Консоль запросов для управляемых форм 8.3 СДР! (@ROL32), 725 скачиваний
 * https://github.com/hal9000cc/RequestConsole9000 (done) Консоль запросов 9000
 * https://infostart.ru/public/617990/ (done) Консоль запросов с графом (Анализатор сложных запросов)
+
+
