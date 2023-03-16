@@ -283,7 +283,9 @@ https://fs.kursypo1c.ru/free/КонсольЗапросов_8.3.5.epf
 ------------
 Статья появилась на свет благодаря каналу https://t.me/memoshnaya1C/294
 
-Если какую-то популярную обработку пропустил - пишите. Оглавление создано с помощью расширения [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+Оглавление создано с помощью расширения [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+Если какую-то популярную обработку пропустил - пишите.
 
 Всем спасибо.
 
