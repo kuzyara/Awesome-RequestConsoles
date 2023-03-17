@@ -10,6 +10,7 @@
 - Обычные формы
   - [Запросник 8.2 | makrus.ru | https://infostart.ru/public/72969/](#запросник-82--makrusru--httpsinfostartrupublic72969)
   - [Консоль запросов для обычных форм Павла Чистова | 1c.chistov.pro](#консоль-запросов-для-обычных-форм-павла-чистова--1cchistovpro)
+  - [Универсальная консоль отчетов 2.7 | 1cskd.ru | https://infostart.ru/public/16782/](#универсальная-консоль-отчетов-27--1cskdru--httpsinfostartrupublic16782)
   - [Консоль запросов в подсистеме ИР | devtool1c.ucoz.ru | https://infostart.ru/public/15126/](#консоль-запросов-в-подсистеме-ир--devtool1cucozru--httpsinfostartrupublic15126)
 - Обычные и управляемые формы
   - [Универсальная консоль запросов | programmist1s.ru](#универсальная-консоль-запросов--programmist1sru)
@@ -93,6 +94,18 @@ https://romanpro.ru/files/1c/console.zip
 - Добавлена опция работы только с выделенным текстом
 
 ![image](https://user-images.githubusercontent.com/2604430/225547841-e7c0d48f-a7a9-42fa-b62c-12193b869555.png)
+
+## Универсальная консоль отчетов 2.7 | [1cskd.ru](https://1cskd.ru/2010/07/universalnaya-konsol-otchetov/) | https://infostart.ru/public/16782/
+http://www.1cskd.ru/wp-content/uploads/2010/07/UCR.rar
+
+Очень мощная консоль для обычных форм.
+- Возможность создания произвольной иерархии с удобным переносом элементов 
+- Расширенное редактирование параметров (периоды, насл. параметры) 
+- Выполнение в фоне (без модификации конфигурации) 
+- Сравнение текстов запросов и результатов запроса 
+- СКД
+
+![image](https://user-images.githubusercontent.com/2604430/225893371-87053570-9006-4f52-849c-3e5e83819a18.png)
 
 ## Консоль запросов в подсистеме ИР | [devtool1c.ucoz.ru](http://devtool1c.ucoz.ru/load/) | https://infostart.ru/public/15126/
 http://devtool1c.ucoz.ru/load/
