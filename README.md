@@ -49,7 +49,7 @@ https://its.1c.ru/db/files/1CITS/EXE/ExtReps/Unireps82/RequestConsoleManaged/Req
 - текст запроса для конфигуратора, вывод данных временных таблиц, сравнение двух результатов запроса
 - позволяет перенести запрос из отладчика (требуется БСП)
 
-Примечание: если встречаете [ошибку](https://yadi.sk/i/qAu6m6b1ZNsfdg) "Ожидается выражение Выбрать" при вызове конструктора - вот [фикс](https://yadi.sk/i/wQyHwVxeYNYZ7w)
+Примечание: если на старых платформах встречаете [ошибку](https://yadi.sk/i/qAu6m6b1ZNsfdg) "Ожидается выражение Выбрать" при вызове конструктора - вот [фикс](https://yadi.sk/i/wQyHwVxeYNYZ7w)
 
 ![image](https://user-images.githubusercontent.com/2604430/224768918-7f1a7171-8624-45ab-94f9-e1efd4a11376.png)
 
