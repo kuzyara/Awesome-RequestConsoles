@@ -9,6 +9,7 @@
   - [Консоль запросов ИТС 8.3 | its.1c.ru](#консоль-запросов-итс-83--its1cru)
 - Обычные формы
   - [Запросник 8.2 | makrus.ru | https://infostart.ru/public/72969/](#запросник-82--makrusru--httpsinfostartrupublic72969)
+  - [Отладчик запросов (by Акулов А.С.) | https://infostart.ru/public/190493/](#отладчик-запросов-by-акулов-ас--httpsinfostartrupublic190493)
   - [Консоль запросов для обычных форм Павла Чистова | 1c.chistov.pro](#консоль-запросов-для-обычных-форм-павла-чистова--1cchistovpro)
   - [Универсальная консоль отчетов 2.7 | 1cskd.ru | https://infostart.ru/public/16782/](#универсальная-консоль-отчетов-27--1cskdru--httpsinfostartrupublic16782)
   - [Консоль запросов в подсистеме ИР | devtool1c.ucoz.ru | https://infostart.ru/public/15126/](#консоль-запросов-в-подсистеме-ир--devtool1cucozru--httpsinfostartrupublic15126)
@@ -80,6 +81,18 @@ https://makrus.ru/files/files-1c/zaprosnik-8.2.rar
 - Выполнение алгоритма над результатом запроса
 
 ![image](https://user-images.githubusercontent.com/2604430/224739125-8a99bd0e-26ea-4f00-bc5f-98833c85e910.png)
+
+## Отладчик запросов (by Акулов А.С.) | https://infostart.ru/public/190493/
+
+Компактная и функциональная консоль с высоким рейтингом. Имеет фишку - визуальную структуру запроса. 2500+ скачиваний.
+- Встроенная "Визуальная структура запроса"
+- вызов из отладчика
+- контекстная подсказка
+- просмотр временных таблиц
+- преобразование вложенного запроса в пакетный
+- обработка результата запроса на языке 1С
+
+![image](https://user-images.githubusercontent.com/2604430/230826575-c451de54-2169-4c1e-a496-335bd1f776d7.png)
 
 ## Консоль запросов для обычных форм Павла Чистова | [1c.chistov.pro](https://1c.chistov.pro/2009/06/blog-post.html)
 https://romanpro.ru/files/1c/console.zip
