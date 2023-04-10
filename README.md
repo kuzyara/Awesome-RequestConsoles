@@ -29,6 +29,7 @@
   - [Консоль запросов для платформы 1С 8.2-8.3 (©ТопчийДЮ) | https://infostart.ru/public/272459/ :frog:](#консоль-запросов-для-платформы-1с-82-83-топчийдю--httpsinfostartrupublic272459-frog)
   - [Управляемая консоль отчетов 3.8.9 (©Evg-Lylyk) | https://infostart.ru/public/835718/](#управляемая-консоль-отчетов-389-evg-lylyk--httpsinfostartrupublic835718)
   - [Консоль запросов, версия 1.8.1 | https://infostart.ru/public/126781/ :frog:](#консоль-запросов-версия-181--httpsinfostartrupublic126781-frog)
+  - [Отладчик запроса 1С 8.3 (управляемые формы) | https://infostart.ru/public/1293224/](#отладчик-запроса-1с-83-управляемые-формы--httpsinfostartrupublic1293224)
 
 
 # Типовые
