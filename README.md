@@ -18,6 +18,7 @@
   - [Консоль запросов 1С | consquery.ru | https://infostart.ru/public/14183/](#консоль-запросов-1с--consqueryru--httpsinfostartrupublic14183)
   - [Консоль запросов с графом (Анализатор сложных запросов) | https://infostart.ru/public/617990/](#консоль-запросов-с-графом-анализатор-сложных-запросов--httpsinfostartrupublic617990)
   - [КонсольЗапросов AZ v1\_7\_5\_санек | https://infostart.ru/public/177142/ :frog:](#консользапросов-az-v1_7_5_санек--httpsinfostartrupublic177142-frog)
+  - [Униформальная консоль запросов | https://infostart.ru/public/834800/](#униформальная-консоль-запросов--httpsinfostartrupublic834800)
 - Управляемые формы
   - [Консолька | helpme1s.ru | https://infostart.ru/public/591653/ (©Виталий Сертаков)](#консолька--helpme1sru--httpsinfostartrupublic591653-виталий-сертаков)
   - [Консоль запросов для управляемого приложения 1С 8.2 - 8.3 | 1c-uroki.ru | https://infostart.ru/public/64522/ (©Николай Больсунов) :frog:](#консоль-запросов-для-управляемого-приложения-1с-82---83--1c-urokiru--httpsinfostartrupublic64522-николай-больсунов-frog)
@@ -187,6 +188,15 @@ https://github.com/lavelinevgeny/consquery/raw/master/consquery83.epf
 - Вставка запроса из буфера обмена
 
 ![image](https://user-images.githubusercontent.com/2604430/225609424-aeacc983-3214-44d5-aab2-8bcea41ef0d5.png)
+
+## Униформальная консоль запросов | https://infostart.ru/public/834800/
+
+Минималистичная и функциональная консоль запросов, которая выглядит и работает одинаково, как в обычных формах, так и в управляемых. 352+ скачиваний
+- ничего лишнего
+- имеет как управляемые, так и обычные формы ([скриншот](https://user-images.githubusercontent.com/2604430/231125824-9bfb3a60-ce9d-48e5-bfbc-2497363ae98c.png))
+
+![image](https://user-images.githubusercontent.com/2604430/231124711-b251ac6b-7a0b-4ef4-a5c4-51a5eb3f632b.png)
+
 # Управляемые формы
 ## Консолька | [helpme1s.ru](https://helpme1s.ru/obrabotka-konsol-zaprosov-sertakov-v-s-1s-8-2-8-3) | https://infostart.ru/public/591653/ (©Виталий Сертаков)
 https://helpme1s.ru/files/sertakov/Query_Console_By_Sertakov.epf
