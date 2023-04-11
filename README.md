@@ -333,8 +333,6 @@ https://mega.nz/file/nVMCwK6S#jKFP6X9s042PAFQ5Vms3KTlfCZlb7MJGzDx_std67L4
 - работает в веб-клиенте!
 - совместимость 8.3.12+
 
-Источник: file:///C:/Users/Nikolay.Kuznecov/Desktop/1cv8upd_8_3_22_1923.htm#e4150058-9163-11e7-a3f7-0050569f678a
-
 ![image](https://user-images.githubusercontent.com/2604430/230827605-ef3a3f24-6cb2-477e-964f-3969c3425b3d.png)
 
 
