@@ -85,6 +85,7 @@ https://makrus.ru/files/files-1c/zaprosnik-8.2.rar
 ![image](https://user-images.githubusercontent.com/2604430/224739125-8a99bd0e-26ea-4f00-bc5f-98833c85e910.png)
 
 ## Отладчик запросов (by Акулов А.С.) | https://infostart.ru/public/190493/
+
 https://mega.nz/file/GdNyiaaa#I8Dr8LPj7KkqffJyW--YDkxrRGKq50ejhFJ8jgxepRg
 
 Компактная и функциональная консоль с высоким рейтингом. Имеет фишку - визуальную структуру запроса. 2500+ скачиваний.
