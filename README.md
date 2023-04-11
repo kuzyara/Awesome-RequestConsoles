@@ -86,8 +86,6 @@ https://makrus.ru/files/files-1c/zaprosnik-8.2.rar
 
 ## Отладчик запросов (by Акулов А.С.) | https://infostart.ru/public/190493/
 
-https://mega.nz/file/GdNyiaaa#I8Dr8LPj7KkqffJyW--YDkxrRGKq50ejhFJ8jgxepRg
-
 Компактная и функциональная консоль с высоким рейтингом. Имеет фишку - визуальную структуру запроса. 2500+ скачиваний.
 - Встроенная "Визуальная структура запроса"
 - вызов из отладчика
@@ -173,7 +171,6 @@ https://github.com/lavelinevgeny/consquery/raw/master/consquery83.epf
 ![image](https://user-images.githubusercontent.com/2604430/224743811-da3eaf4b-f353-4fd6-b606-749f9853822f.png)
 
 ## Консоль запросов с графом (Анализатор сложных запросов) | https://infostart.ru/public/617990/
-https://mega.nz/file/zAcSXaBa#QhoQDB9AXOnhlj7blEhUf8AWseKIc7r5-wTMtS1z7vg
 
 Консоль запросов для анализа запросов с большим количеством временных таблиц и вложенных запросов. Отображает структуру взаимосвязей временных таблиц в виде графа. Позволяет быстро передвигаться по тексту запроса и получать результат выполнения подзапросов.
 - Поддержка УФ и [ОФ (скриншот)](https://yadi.sk/i/-eEGRp8en7KAYA)
@@ -184,7 +181,6 @@ https://mega.nz/file/zAcSXaBa#QhoQDB9AXOnhlj7blEhUf8AWseKIc7r5-wTMtS1z7vg
 
 
 ## КонсольЗапросов AZ v1_7_5_санек | https://infostart.ru/public/177142/ :frog:
-https://mega.nz/file/WMs3BA4R#tNU0DXyOdK1P1MXZlp6wNX3s1j854MMWdAJJo9xSZPw
 
 Взята с http://infostart.ru/public/126781/. Доделал Санек ICQ 129193052. Несмотря на то что в публикации заявлено УФ, консоль управляемых форм лежит в архиве в виде отдельной обработки, которая была взята из другой публикации, я всё же завёл её в категорию "УФ и ОФ". Пользуясь случаем, передаём Саньку привет)  Имеет 716+ скачиваний
 - Консоль запросов оф и уф 8.3.5 (обычные формы в виде отдельной обработки, [скриншот](https://user-images.githubusercontent.com/2604430/225598754-04a3e764-fa5d-447f-8edb-1eeadd02c16c.png))
@@ -194,7 +190,6 @@ https://mega.nz/file/WMs3BA4R#tNU0DXyOdK1P1MXZlp6wNX3s1j854MMWdAJJo9xSZPw
 ![image](https://user-images.githubusercontent.com/2604430/225609424-aeacc983-3214-44d5-aab2-8bcea41ef0d5.png)
 
 ## Униформальная консоль запросов | https://infostart.ru/public/834800/
-https://mega.nz/file/PVUXQYDQ#F1ss_70iFAF3ETuy7fPopdnhNhP5u7P0SgR34NZYyiU
 
 Минималистичная и функциональная консоль запросов, которая выглядит и работает одинаково, как в обычных формах, так и в управляемых. 352+ скачиваний
 - ничего лишнего
@@ -291,7 +286,6 @@ https://fs.kursypo1c.ru/free/КонсольЗапросов_8.3.5.epf
 ![image](https://user-images.githubusercontent.com/2604430/225536708-ac11090b-1e42-41c4-a3fe-bef7bd20e8a4.png)
 
 ## Консоль запросов для платформы 1С 8.2-8.3 (©ТопчийДЮ) | https://infostart.ru/public/272459/ :frog:
-https://mega.nz/file/CE812IxC#mhhc3-O5cnJLvKvgYiq53nY518Jn67Nu27Em5IsjjWc
 
 Данная консоль запросов является доработанной версией стандартной консоли с сайта ИТС т.к. нужного и удобного функционала не было найдено. Для модернизации были взяты наработки из консоли http://infostart.ru/public/126781/ 403+ скачиваний
 - Управляемое приложение, Такси
@@ -301,7 +295,6 @@ https://mega.nz/file/CE812IxC#mhhc3-O5cnJLvKvgYiq53nY518Jn67Nu27Em5IsjjWc
 ![image](https://user-images.githubusercontent.com/2604430/225538899-1ffb1154-d180-4e69-8ffb-0d3a1ca4f15a.png)
 
 ## Управляемая консоль отчетов 3.8.9 (©Evg-Lylyk) | https://infostart.ru/public/835718/
-https://mega.nz/file/LVVU3ZBZ#X7Bziql-TxUmlpoWkTIp4hSaFEAggYH-hjYaeM0am7g
 
 Консоль на управляемых формах с самыми разнообразными возможностями. Поддержка бесплатной версии прекращена, так как разработка перешла в разряд коммерческих [Консоль разработчика (IS Toolkit)](https://infostart.ru/public/1254364/). 1393+ скачиваний
 - Работа с запросом и СКД, Полная поддержка пакетных запросов, временных таблиц, Сравнение результатов, текстов, Разбор структуры запроса в виде дерева,
@@ -315,7 +308,6 @@ https://mega.nz/file/LVVU3ZBZ#X7Bziql-TxUmlpoWkTIp4hSaFEAggYH-hjYaeM0am7g
 ![image](https://user-images.githubusercontent.com/2604430/225584380-a4eb7d5d-cf88-4665-8ea0-9f3c51d44857.png)
 
 ## Консоль запросов, версия 1.8.1 | https://infostart.ru/public/126781/ :frog:
-https://mega.nz/file/mZlXTBBa#aIOqHZJxbvB4KvBUqtPQKfWdnTM0mofsdTnnBweQUQc
 
 Консоль запросов 1.8.1 разработана для использования в тонком и толстом клиенте управляемого приложения. 1229+ скачиваний
 - Работает начиная с версии платформы 8.3.3
@@ -325,7 +317,6 @@ https://mega.nz/file/mZlXTBBa#aIOqHZJxbvB4KvBUqtPQKfWdnTM0mofsdTnnBweQUQc
 ![image](https://user-images.githubusercontent.com/2604430/225602991-5777345c-0d2c-4e4e-b348-d72ef89b89b6.png)
 
 ## Отладчик запроса 1С 8.3 (управляемые формы) | https://infostart.ru/public/1293224/
-https://mega.nz/file/nVMCwK6S#jKFP6X9s042PAFQ5Vms3KTlfCZlb7MJGzDx_std67L4
 
 Переписанная на управляемые формы консоль от известного автора. 171+ скачиваний
 - перенесены все фичи из версии на обычных формах
@@ -339,11 +330,10 @@ https://mega.nz/file/nVMCwK6S#jKFP6X9s042PAFQ5Vms3KTlfCZlb7MJGzDx_std67L4
 ------------
 Статья появилась на свет благодаря каналу https://t.me/memoshnaya1C/294
 
+Все обработки можно найти здесь: https://t.me/HelpDownload_1C_bot
+
 Оглавление создано с помощью расширения [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 Если какую-то популярную обработку пропустил - пишите.
 
 Всем спасибо.
-
-
-
