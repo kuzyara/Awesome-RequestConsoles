@@ -33,6 +33,7 @@
   - [Консоль запросов, версия 1.8.1 | https://infostart.ru/public/126781/ :frog:](#консоль-запросов-версия-181--httpsinfostartrupublic126781-frog)
   - [Отладчик запроса 1С 8.3 (управляемые формы) | https://infostart.ru/public/1293224/](#отладчик-запроса-1с-83-управляемые-формы--httpsinfostartrupublic1293224)
   - [Консоль запросов УФ 8.3.7.1	(©Александр Кораблев) | https://infostart.ru/public/335504/](#консоль-запросов-уф-8371александр-кораблев--httpsinfostartrupublic335504)
+  - [Консоль запросов к двум базам | https://infostart.ru/public/1640927/](#консоль-запросов-к-двум-базам--httpsinfostartrupublic1640927)
 
 
 # Типовые
