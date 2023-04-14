@@ -275,6 +275,7 @@ https://github.com/hal9000cc/RequestConsole9000/blob/master/releases/1.1.10/Ко
 - Вставка функций и предопределенных значений (ЗНАЧЕНИЕ)
 - Просмотр результатов пакетов и временных таблиц
 - и многое другое
+
 ![image](https://user-images.githubusercontent.com/2604430/231979049-36fdb6d1-bcd7-4fa5-98bc-a98c5f424b86.png)
 
 ## МегаКонсоль запросов 8.3 @AlexxSys | https://infostart.ru/public/331421/
