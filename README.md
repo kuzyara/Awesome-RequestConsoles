@@ -338,6 +338,7 @@ https://github.com/kuzyara/JobsConsole2019.epf/blob/master/Обработки/К
 - вызов консоли в отладчике
 - редактор таблицы значений, табличного документа
 - код установки значений парамерам запроса
+- работает в веб-клиенте
 
 ![image](https://user-images.githubusercontent.com/2604430/231972310-6eac8c47-c6f9-412b-961f-4cce2174341f.png)
 
