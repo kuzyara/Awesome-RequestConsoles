@@ -25,6 +25,7 @@
   - [Запросник 2.0 (©mrstomak) | itdemka.ru | https://infostart.ru/public/295356/](#запросник-20-mrstomak--itdemkaru--httpsinfostartrupublic295356)
   - [СДР: Консоль запросов Х (©ROL32) | https://infostart.ru/public/938606/](#сдр-консоль-запросов-х-rol32--httpsinfostartrupublic938606)
   - [Консоль запросов 9000 (©kuza2000) | github | https://infostart.ru/public/1190868/](#консоль-запросов-9000-kuza2000--github--httpsinfostartrupublic1190868)
+  - [Консоль запросов Infostart Toolkit | https://infostart.ru/marketplace/1254364/](#консоль-запросов-infostart-toolkit--httpsinfostartrumarketplace1254364)
   - [МегаКонсоль запросов 8.3 @AlexxSys | https://infostart.ru/public/331421/](#мегаконсоль-запросов-83-alexxsys--httpsinfostartrupublic331421)
   - [Консоль запросов для платформы 8.3.5 (©BigB) | kursypo1c.ru | https://infostart.ru/public/277749/](#консоль-запросов-для-платформы-835-bigb--kursypo1cru--httpsinfostartrupublic277749)
   - [Консоль запросов для платформы 1С 8.2-8.3 (©ТопчийДЮ) | https://infostart.ru/public/272459/ :frog:](#консоль-запросов-для-платформы-1с-82-83-топчийдю--httpsinfostartrupublic272459-frog)
@@ -265,6 +266,16 @@ https://github.com/hal9000cc/RequestConsole9000/blob/master/releases/1.1.10/Ко
 - возможность работы в составе расширения
 
 ![image](https://user-images.githubusercontent.com/2604430/225509688-6bbeb4d3-2582-4c1a-8176-fcaa61b8f89d.png)
+
+## Консоль запросов Infostart Toolkit | https://infostart.ru/marketplace/1254364/
+
+Поставляются в виде расширения, режим запуска: Управляемое приложение, версия платформы 8.3.10+, режим совместимости: 8.3.10+, язык: русский или английский.
+- Переход к месту ошибки в запросе
+- Работа с параметром типа «Таблица значений»
+- Вставка функций и предопределенных значений (ЗНАЧЕНИЕ)
+- Просмотр результатов пакетов и временных таблиц
+- и многое другое
+![image](https://user-images.githubusercontent.com/2604430/231979049-36fdb6d1-bcd7-4fa5-98bc-a98c5f424b86.png)
 
 ## МегаКонсоль запросов 8.3 @AlexxSys | https://infostart.ru/public/331421/
 https://mega.nz/file/2YFiAb4C#GHfmAGEqfAhiPVFGrSHgwvDzeroRtBEOOTDrQstyjOM
