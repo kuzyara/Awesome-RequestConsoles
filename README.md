@@ -377,6 +377,11 @@ https://github.com/SgonnovDmGit/lensa-query-console/releases/latest
 
 ![image](https://raw.githubusercontent.com/SgonnovDmGit/lensa-query-console/main/docs/screens/console-overview.png)
 
+## Консоль запросов 4K | https://infostart.ru/1c/tools/2781719/
+
+Интерфейс полностью реализован на javascript-движке CodeMirror, присутствует редактор кода и HTTP запросов. Единый HTML-интерфейс, объединяющий мощнейший редактор запросов, IDE для написания кода (BSL/JS), HTTP-клиент, Git-интеграцию и ИИ-ассистента.
+
+
 ------------
 Статья появилась на свет благодаря каналу https://t.me/memoshnaya1C/294
 
