@@ -380,8 +380,6 @@ https://github.com/SgonnovDmGit/lensa-query-console/releases/latest
 ------------
 Статья появилась на свет благодаря каналу https://t.me/memoshnaya1C/294
 
-Все обработки можно найти здесь: https://t.me/HelpDownload_1C_bot
-
 Оглавление создано с помощью расширения [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 Если какую-то популярную обработку пропустил - пишите.
